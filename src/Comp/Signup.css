@@ -1,7 +1,7 @@
 .Signup{
     display: flex;
     flex-direction: column;
-    border: 1px solid black;
+    border: 2px solid black;
     border-radius: 10px;
     height: fit-content;
     gap: 10px;
@@ -10,7 +10,7 @@
 }
 
 .hd{
-    color: rgb(77, 4, 137);
+    color: rgb(231, 23, 8);
     font-family: 'Times New Roman', Times, serif;
   
   }
