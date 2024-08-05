@@ -1,0 +1,15 @@
+.Navbar{
+    width: 100vw;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    background-color: rgb(141, 140, 137);
+}
+
+.head1{
+  color: rgb(22, 7, 119);
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding: 30px;
+  text-align: left;
+
+}

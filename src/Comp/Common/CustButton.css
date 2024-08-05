@@ -1,0 +1,12 @@
+.btn{
+    padding: 3px;
+    background-color: rgb(157, 239, 183);
+    border-radius: 10px;
+}
+
+.btn:hover{
+    background-color: rgb(204, 170, 237);
+}
+.btn:active{
+    transform: scale(.98);
+}

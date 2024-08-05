@@ -1,0 +1,17 @@
+.Login{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid rgb(112, 9, 231);
+    border-radius: 10px;
+    height: fit-content;
+    gap: 10px;
+    padding: 50px;
+    margin: 150px;
+    background-color: aliceblue;
+}
+
+.head2{
+  color: rgb(110, 19, 185);
+  font-family: 'Times New Roman', Times, serif;
+
+}

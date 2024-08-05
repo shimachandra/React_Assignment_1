@@ -1,0 +1,17 @@
+.Signup{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    border-radius: 10px;
+    height: fit-content;
+    gap: 10px;
+    padding: 50px;
+    background-color: aliceblue;
+}
+
+.hd{
+    color: rgb(77, 4, 137);
+    font-family: 'Times New Roman', Times, serif;
+  
+  }
+  

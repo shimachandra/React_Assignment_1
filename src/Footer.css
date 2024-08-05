@@ -1,8 +1,9 @@
-.App{
+.Footer
+{
   width: 100vw;
-  height: 80vh;
+  height: 10vh;
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: rgb(245, 245, 148);
+  background-color: rgb(198, 190, 192);
 }
